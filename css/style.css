@@ -1,0 +1,26 @@
+#menu ul{
+    width:18%;
+    background: #EFC2F5;
+    padding: 0;
+    border: solid black;
+    border-width: 2px;
+}
+
+#menu li{
+    padding: 0;
+    background: #A546B2;
+}
+
+#menu a{
+    display: block;
+    padding: 1em;
+    color: #ffffff;
+    text-decoration: none;
+    border-top: solid black;
+    border-width: 2px;
+}
+
+#menu a:hover{
+    background: #EFC2F5;
+    color: black;
+}
